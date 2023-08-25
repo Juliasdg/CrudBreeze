@@ -1,4 +1,5 @@
 <div align="center">
+<img width="706" alt="MicrosoftTeams-image (3)" src="https://github.com/Juliasdg/CrudBreeze/assets/108619704/b8ea34fc-0006-41ce-8da4-d2eeff583cc6">
 <img width="706" alt="MicrosoftTeams-image" src="https://github.com/Juliasdg/CrudBreeze/assets/108619704/8d188479-692a-4ba4-9c1f-ac8b63c7b1c0">
 <img width="693" alt="MicrosoftTeams-image (1)" src="https://github.com/Juliasdg/CrudBreeze/assets/108619704/3aef576c-bb10-456e-89ac-9d05e103bf93">
 <img width="720" alt="MicrosoftTeams-image (2)" src="https://github.com/Juliasdg/CrudBreeze/assets/108619704/0d2724cd-7457-46e9-8877-eed4464ad123">
